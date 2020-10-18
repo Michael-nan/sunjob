@@ -1,0 +1,21 @@
+# Project exclude paths
+/out/
+/s85JAVAweb01/target/
+/s85JAVAweb02/target/
+/s85JAVAweb03/target/
+/s85JAVAweb05/target/
+/s85JAVAweb06/target/
+/s85JAVAweb07/target/
+/s85JAVAweb08/target/
+/s85JAVAweb09/target/
+/s85JAVAweb10/target/
+/s85JAVAweb11/target/
+/s85JAVAweb12/target/
+/s85JAVAweb13/target/
+/s85JAVAweb14/target/
+/s85mybatis01/target/
+/s85mybatis02/target/
+/s85mybatis03/target/
+/s85spring01/target/
+/s85spring04/target/
+/s85springmybatis01/target/

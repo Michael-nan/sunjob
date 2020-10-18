@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.pojo.Emp" >
+    <update id="update" parameterType="com.pojo.Emp">
+        update emp set
+        <!--
+        <set>
+            <if test="empname!=null and empname!='' ">
+                empname=#{empname} ,
+            </if>
+            <if test="depid!=null and depid!='' ">
+                depid=#{depid} ,
+            </if>
+        </set>
+        -->
+
+        <trim suffixOverrides=",">
+            <if test="empname!=null and empname!='' ">
+                empname=#{empname} ,
+            </if>
+            <if test="depid!=null and depid!='' ">
+                depid=#{depid} ,
+            </if>
+        </trim>
+        where empid= #{empid}
+    </update>
+
+    <select id="findby" resultType="com.pojo.Emp">
+        select empid ,empname ,depid from emp
+        <where>
+            <if test="empid!=null and empid!='' ">
+                and empid=#{empid}
+            </if>
+            <if test="empname!=null and empname!='' ">
+                and empname=#{empname}
+            </if>
+            <if test="depid!=null and depid!='' ">
+                and depid=#{depid}
+            </if>
+        </where>
+
+    </select>
+</mapper>

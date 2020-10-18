@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="s85spring04" />
+        <module name="s85mybatis01" />
+        <module name="s85JAVAweb08" />
+        <module name="s85JAVAweb07" />
+        <module name="s85JAVAweb06" />
+        <module name="s85JAVAweb05" />
+        <module name="s85JAVAweb03" />
+        <module name="s85JAVAweb02" />
+        <module name="s85JAVAweb01" />
+        <module name="s85JAVAweb09" />
+        <module name="s85mybatis04" />
+        <module name="s85JAVAweb14" />
+        <module name="s85JAVAweb13" />
+        <module name="s85JAVAweb12" />
+        <module name="s85JAVAweb11" />
+        <module name="s85JAVAweb10" />
+        <module name="s85spring01" />
+        <module name="s85springmybatis01" />
+        <module name="s85mybatis02" />
+        <module name="s85mybatis03" />
+        <module name="s85mybatis05" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="s85JAVAweb01" target="1.7" />
+      <module name="s85JAVAweb02" target="1.7" />
+      <module name="s85JAVAweb03" target="1.7" />
+      <module name="s85JAVAweb05" target="1.7" />
+      <module name="s85JAVAweb06" target="1.7" />
+      <module name="s85JAVAweb07" target="1.7" />
+      <module name="s85JAVAweb08" target="1.7" />
+      <module name="s85JAVAweb09" target="1.7" />
+      <module name="s85JAVAweb10" target="1.7" />
+      <module name="s85JAVAweb11" target="1.7" />
+      <module name="s85JAVAweb12" target="1.7" />
+      <module name="s85JAVAweb13" target="1.7" />
+      <module name="s85JAVAweb14" target="1.7" />
+      <module name="s85mybatis01" target="1.7" />
+      <module name="s85mybatis02" target="1.7" />
+      <module name="s85mybatis03" target="1.7" />
+      <module name="s85mybatis04" target="1.7" />
+      <module name="s85mybatis05" target="1.7" />
+      <module name="s85spring01" target="1.7" />
+      <module name="s85spring04" target="1.7" />
+      <module name="s85spring05" target="1.5" />
+      <module name="s85springmybatis01" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

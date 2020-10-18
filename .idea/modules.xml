@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb01/s85JAVAweb01.iml" filepath="$PROJECT_DIR$/s85JAVAweb01/s85JAVAweb01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb02/s85JAVAweb02.iml" filepath="$PROJECT_DIR$/s85JAVAweb02/s85JAVAweb02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb03/s85JAVAweb03.iml" filepath="$PROJECT_DIR$/s85JAVAweb03/s85JAVAweb03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb04/s85JAVAweb04.iml" filepath="$PROJECT_DIR$/s85JAVAweb04/s85JAVAweb04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb05/s85JAVAweb05.iml" filepath="$PROJECT_DIR$/s85JAVAweb05/s85JAVAweb05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb06/s85JAVAweb06.iml" filepath="$PROJECT_DIR$/s85JAVAweb06/s85JAVAweb06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb07/s85JAVAweb07.iml" filepath="$PROJECT_DIR$/s85JAVAweb07/s85JAVAweb07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb08/s85JAVAweb08.iml" filepath="$PROJECT_DIR$/s85JAVAweb08/s85JAVAweb08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb09/s85JAVAweb09.iml" filepath="$PROJECT_DIR$/s85JAVAweb09/s85JAVAweb09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb10/s85JAVAweb10.iml" filepath="$PROJECT_DIR$/s85JAVAweb10/s85JAVAweb10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb11/s85JAVAweb11.iml" filepath="$PROJECT_DIR$/s85JAVAweb11/s85JAVAweb11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb12/s85JAVAweb12.iml" filepath="$PROJECT_DIR$/s85JAVAweb12/s85JAVAweb12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb13/s85JAVAweb13.iml" filepath="$PROJECT_DIR$/s85JAVAweb13/s85JAVAweb13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85JAVAweb14/s85JAVAweb14.iml" filepath="$PROJECT_DIR$/s85JAVAweb14/s85JAVAweb14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85mybatis01/s85mybatis01.iml" filepath="$PROJECT_DIR$/s85mybatis01/s85mybatis01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85mybatis02/s85mybatis02.iml" filepath="$PROJECT_DIR$/s85mybatis02/s85mybatis02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85mybatis03/s85mybatis03.iml" filepath="$PROJECT_DIR$/s85mybatis03/s85mybatis03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85mybatis04/s85mybatis04.iml" filepath="$PROJECT_DIR$/s85mybatis04/s85mybatis04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85mybatis05/s85mybatis05.iml" filepath="$PROJECT_DIR$/s85mybatis05/s85mybatis05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85spring01/s85spring01.iml" filepath="$PROJECT_DIR$/s85spring01/s85spring01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85spring04/s85spring04.iml" filepath="$PROJECT_DIR$/s85spring04/s85spring04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/s85springmybatis01/s85springmybatis01.iml" filepath="$PROJECT_DIR$/s85springmybatis01/s85springmybatis01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sunjob.iml" filepath="$PROJECT_DIR$/sunjob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多个工厂方法模式/多个工厂方法模式.iml" filepath="$PROJECT_DIR$/多个工厂方法模式/多个工厂方法模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/抽象工厂模式/抽象工厂模式.iml" filepath="$PROJECT_DIR$/抽象工厂模式/抽象工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/普通工厂模式/普通工厂模式.iml" filepath="$PROJECT_DIR$/普通工厂模式/普通工厂模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/表单验证/表单验证.iml" filepath="$PROJECT_DIR$/表单验证/表单验证.iml" />
+      <module fileurl="file://$PROJECT_DIR$/装饰模式/装饰模式.iml" filepath="$PROJECT_DIR$/装饰模式/装饰模式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/静态工厂方法模式/静态工厂方法模式.iml" filepath="$PROJECT_DIR$/静态工厂方法模式/静态工厂方法模式.iml" />
+    </modules>
+  </component>
+</project>

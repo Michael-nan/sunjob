@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/s85JAVAweb01/pom.xml" />
+        <option value="$PROJECT_DIR$/s85JAVAweb02/pom.xml" />
+        <option value="$PROJECT_DIR$/s85JAVAweb03/pom.xml" />
+        <option value="$PROJECT_DIR$/s85JAVAweb05/pom.xml" />
+        <option value="$PROJECT_DIR$/s85JAVAweb06/pom.xml" />
+        <option value="$PROJECT_DIR$/s85JAVAweb07/pom.xml" />
+        <option value="$PROJECT_DIR$/s85JAVAweb08/pom.xml" />
+        <option value="$PROJECT_DIR$/s85JAVAweb09/pom.xml" />
+        <option value="$PROJECT_DIR$/s85JAVAweb10/pom.xml" />
+        <option value="$PROJECT_DIR$/s85JAVAweb11/pom.xml" />
+        <option value="$PROJECT_DIR$/s85JAVAweb12/pom.xml" />
+        <option value="$PROJECT_DIR$/s85JAVAweb13/pom.xml" />
+        <option value="$PROJECT_DIR$/s85JAVAweb14/pom.xml" />
+        <option value="$PROJECT_DIR$/s85mybatis01/pom.xml" />
+        <option value="$PROJECT_DIR$/s85mybatis02/pom.xml" />
+        <option value="$PROJECT_DIR$/s85mybatis03/pom.xml" />
+        <option value="$PROJECT_DIR$/s85mybatis04/pom.xml" />
+        <option value="$PROJECT_DIR$/s85mybatis05/pom.xml" />
+        <option value="$PROJECT_DIR$/s85spring01/pom.xml" />
+        <option value="$PROJECT_DIR$/s85springmybatis01/pom.xml" />
+        <option value="$PROJECT_DIR$/s85spring04/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

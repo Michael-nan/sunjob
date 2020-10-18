@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb04" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb05" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb06" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb07" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb08" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/1.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/1.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/10.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/11.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/12.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/13.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/14.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/2.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/2.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/3.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/3.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/4.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/4.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/5.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/5.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/6.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/7.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/8.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb09/src/main/webapp/images/9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb10" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb11" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb12" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb13" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85JAVAweb14" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85mybatis01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85mybatis01/src/main/resources/com/mapper/DepMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85mybatis01/src/main/resources/mybatis-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85mybatis02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85mybatis02/src/main/resources/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85mybatis02/src/main/resources/mybatis-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85mybatis03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85mybatis03/src/main/resources/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85mybatis03/src/main/resources/mybatis-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85mybatis04" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85mybatis04/src/main/resources/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85mybatis04/src/main/resources/mybatis-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85mybatis05" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85mybatis05/src/main/resources/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85mybatis05/src/main/resources/mybatis-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85spring01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85spring01/src/main/resources/applicationContext.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85spring01/src/main/resources/applicationContext.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85spring01/src/main/resources/mybatis-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85spring01/src/main/resources/mybatis-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85spring01/src/main/webapp/WEB-INF/springMVC-servlet.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85spring04" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85spring04/src/main/resources/applicationContext.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85spring04/src/main/resources/mybatis-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85spring04/src/main/webapp/WEB-INF/a-servlet.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/s85springmybatis01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/s85springmybatis01/src/main/resources/mybatis-config.xml" charset="GBK" />
+  </component>
+</project>
